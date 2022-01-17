@@ -45,7 +45,7 @@ def main():
 
 
     ################################################################################
-    ################# PROGRAMM #####################################################
+    ################# PROGRAM ######################################################
 
     # combine hyperparameters to initializer list
     initializer = [model_width, model_depth, model_normalize, model_initializer,
