@@ -142,6 +142,7 @@ plt.show()
 
 # 1
 # test on single state
+xi = np.linspace(-1,1,len(limits))
 x = dataset['X0'][0]
 
 # set model feedback obtained from policy iteration and calculate trajectory
